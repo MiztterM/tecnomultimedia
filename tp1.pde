@@ -1,5 +1,7 @@
 /* Estos créditos están basados en "GRIS", un juego independiente de una desarrolladora española.
 Los datos que salen en los créditos son los mismos que en el juego original
+Nombre: Lautaro Gastón Franco
+Legajo: 91398/0
 */
 
 PImage personaje;
