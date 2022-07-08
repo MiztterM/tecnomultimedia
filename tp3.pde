@@ -1,5 +1,5 @@
 /*
-https://youtu.be/QKroRxX19As (el video es muy resumido, porque mi casa es un caos y tuve que grabar primero la pantalla y despúes el audio. Voy a intentar volver a grabarlo este fin de semana)
+https://youtu.be/QKroRxX19As (el video es muy resumido, porque mi casa es un caos y tuve que grabar primero la pantalla y despúes el audio. Voy a intentar volver a grabarlo cuando no haya nadie en mi casa)
 "El coso que salta" - tp3
 Lautaro Franco - Comisión 2
 
